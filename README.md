@@ -9,7 +9,7 @@ pip install PyGithub
 ```
 
 ===
-## Update Repositories List in git_setup.py
+## Update Repository List in git_setup.py
 
 In file git_setup.py *(line 29)*, update list of repositories, for which you want to setup rules.
 
