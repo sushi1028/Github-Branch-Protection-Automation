@@ -11,6 +11,7 @@ This repository contains **python script** which enable important github setting
 7. Turn on **Require branches to be up to date before merging**
 8. Turn on **Include administrators**"
 
+**NOTE:** Python3 or higher version should be installed on your system.
 
 # LETS GET STARTED
 
@@ -31,7 +32,7 @@ In code file, git_setup.py (line 29), update list of repositories, for which you
 ## Run Python Code
 
 ```
-python git_setup.py
+python3 git_setup.py
 ```
 
 **Thank you..!!**
